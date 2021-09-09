@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "verde vermelho amarelo/1.0.0": {
+        "runtime": {
+          "verde vermelho amarelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "verde vermelho amarelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

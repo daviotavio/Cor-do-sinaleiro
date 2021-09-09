@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\verde vermelho amarelo.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\verde vermelho amarelo.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\verde vermelho amarelo.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\verde vermelho amarelo.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\verde vermelho amarelo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\ref\verde vermelho amarelo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\bin\Debug\net5.0\verde vermelho amarelo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\ref\verde vermelho amarelo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\SWITCH CASE\verde vermelho amarelo\obj\Debug\net5.0\verde vermelho amarelo.genruntimeconfig.cache
